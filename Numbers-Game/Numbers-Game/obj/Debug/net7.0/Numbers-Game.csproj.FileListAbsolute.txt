@@ -1,0 +1,15 @@
+C:\Users\kdkel\OneDrive\Documents\GitHub\Lab01B-NumbersGame\Numbers-Game\Numbers-Game\bin\Debug\net7.0\Numbers-Game.exe
+C:\Users\kdkel\OneDrive\Documents\GitHub\Lab01B-NumbersGame\Numbers-Game\Numbers-Game\bin\Debug\net7.0\Numbers-Game.deps.json
+C:\Users\kdkel\OneDrive\Documents\GitHub\Lab01B-NumbersGame\Numbers-Game\Numbers-Game\bin\Debug\net7.0\Numbers-Game.runtimeconfig.json
+C:\Users\kdkel\OneDrive\Documents\GitHub\Lab01B-NumbersGame\Numbers-Game\Numbers-Game\bin\Debug\net7.0\Numbers-Game.dll
+C:\Users\kdkel\OneDrive\Documents\GitHub\Lab01B-NumbersGame\Numbers-Game\Numbers-Game\bin\Debug\net7.0\Numbers-Game.pdb
+C:\Users\kdkel\OneDrive\Documents\GitHub\Lab01B-NumbersGame\Numbers-Game\Numbers-Game\obj\Debug\net7.0\Numbers-Game.csproj.AssemblyReference.cache
+C:\Users\kdkel\OneDrive\Documents\GitHub\Lab01B-NumbersGame\Numbers-Game\Numbers-Game\obj\Debug\net7.0\Numbers-Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kdkel\OneDrive\Documents\GitHub\Lab01B-NumbersGame\Numbers-Game\Numbers-Game\obj\Debug\net7.0\Numbers-Game.AssemblyInfoInputs.cache
+C:\Users\kdkel\OneDrive\Documents\GitHub\Lab01B-NumbersGame\Numbers-Game\Numbers-Game\obj\Debug\net7.0\Numbers-Game.AssemblyInfo.cs
+C:\Users\kdkel\OneDrive\Documents\GitHub\Lab01B-NumbersGame\Numbers-Game\Numbers-Game\obj\Debug\net7.0\Numbers-Game.csproj.CoreCompileInputs.cache
+C:\Users\kdkel\OneDrive\Documents\GitHub\Lab01B-NumbersGame\Numbers-Game\Numbers-Game\obj\Debug\net7.0\Numbers-Game.dll
+C:\Users\kdkel\OneDrive\Documents\GitHub\Lab01B-NumbersGame\Numbers-Game\Numbers-Game\obj\Debug\net7.0\refint\Numbers-Game.dll
+C:\Users\kdkel\OneDrive\Documents\GitHub\Lab01B-NumbersGame\Numbers-Game\Numbers-Game\obj\Debug\net7.0\Numbers-Game.pdb
+C:\Users\kdkel\OneDrive\Documents\GitHub\Lab01B-NumbersGame\Numbers-Game\Numbers-Game\obj\Debug\net7.0\Numbers-Game.genruntimeconfig.cache
+C:\Users\kdkel\OneDrive\Documents\GitHub\Lab01B-NumbersGame\Numbers-Game\Numbers-Game\obj\Debug\net7.0\ref\Numbers-Game.dll
